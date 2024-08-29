@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Medica</string>
+    <string name="get_started">Get started</string>
+    <string name="medica">Medica</string>
 </resources>
