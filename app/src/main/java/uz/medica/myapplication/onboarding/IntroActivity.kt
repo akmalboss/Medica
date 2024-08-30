@@ -1,8 +1,9 @@
-package uz.medica.myapplication
+package uz.medica.myapplication.onboarding
 
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import uz.medica.myapplication.MainActivity
 import uz.medica.myapplication.databinding.ActivityIntroBinding
 
 class IntroActivity : AppCompatActivity() {
